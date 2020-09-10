@@ -4,10 +4,11 @@ Smash It is a weather app where users can get weather information in real-time. 
 
 ## Table of Contents
 
-* [About](#Smash It)
+* [About](#Smash-It)
 * [Requirements](#requirements)
 * [Other Requirements](#other-requirements)
 * [Technologies Used](#technologies-used)
+* [App URL](#app-url)
 * [Acknowledgements](#acknowledgements)
 * [Author](#author)
 
@@ -31,12 +32,17 @@ Smash It is a weather app where users can get weather information in real-time. 
 * [PWA](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0) provide an installable, app-like experience on desktop and mobile that are built and delivered directly via the web. They're web apps that are fast and reliable. And most importantly, they're web apps that work in any browser.
 * [OpenWeather](https://openweathermap.org/) - Weather forecasts, nowcasts and history in fast and elegant way.
 
+## App URL
+* [Weather App](https://weather-app-7e33b.web.app)
+* App hosted on firebase
+
 ## Acknowledgements
 
 * [Andela](https://andela.com/)
 * [Pluralsight](https://www.pluralsight.com/)
 * [Tyler Potts](https://github.com/TylerPottsDev)
 * [Brad Traversy](https://github.com/bradtraversy)
+* [Aleem Uddin](https://medium.com/@aleemuddin13/how-to-host-static-website-on-firebase-hosting-for-free-9de8917bebf2)
 
 ## Author
 

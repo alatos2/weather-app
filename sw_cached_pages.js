@@ -1,5 +1,5 @@
 const cacheName = 'v1';
-const cacheAssets = ['index.html', 'style.css', 'main.js']
+const cacheAssets = ['index.html', 'style.css', 'main.js', 'background.jpg'];
 
 // call the install event
 self.addEventListener('install', e => {
